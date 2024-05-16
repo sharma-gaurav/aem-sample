@@ -53,7 +53,11 @@
     "webpack": "^5.76.0",
     "webpack-cli": "^4.9.1",
     "webpack-dev-server": "^4.6.0",
-    "webpack-merge": "^5.8.0"
+    "webpack-merge": "^5.8.0",
+    "prettier": "^2.8.1",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-prefer-arrow": "^1.2.3",
+    "eslint-plugin-prettier": "^4.2.1"
   },
   "dependencies": {},
   "browserslist": [
